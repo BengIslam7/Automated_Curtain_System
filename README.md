@@ -53,7 +53,7 @@ authenticate themselves and gain access to the application's features.
 password) for connecting the system to the internet. Additionally, users need to connect
 the system to an MQTT server (e.g., "broker.hivemq.com") and configure MQTT topics as
 needed.
-# 8. Conclusion
+# 7. Conclusion
 The Automated Curtain System project offers a convenient and efficient solution for
 curtain control, providing users with customizable options for manual or automatic
 operation and scheduling. With the MQTT communication protocol and real-time sensor
